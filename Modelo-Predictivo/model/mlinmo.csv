@@ -1,0 +1,49 @@
+id,year,years,metros,habitaciones,servicios,garaje,ascensor,trastero,precio,tipo,direccion,localidad,provincia
+1,2016,4,48,1,1,1,1,1,82000,1,Molino el Realaje,Alcala de Guadaira,Sevilla
+2,2006,14,40,2,1,1,0,1,68000,1,San Sebastian,Alcala de Guadaira,Sevilla
+3,2007,13,127,3,2,0,1,0,139990,1,Ignacio Garrido,Guillena,Sevilla
+4,2016,4,75,2,1,1,1,1,95500,1,Molino el Realaje,Alcala de Guadaira,Sevilla
+5,1983,37,200,3,2,1,0,1,249990,2,Pino Hermoso,Carmona,Sevilla
+6,1980,40,93,3,2,0,0,0,103000,1,Mairena,Alcala de Guadaira,Sevilla
+7,2009,11,622,6,6,1,0,1,209500,2,Pino Verde,Carmona,Sevilla
+8,2005,15,124,3,2,1,0,0,107500,2,Avenida Pepe Luna,Burguillos,Sevilla
+9,2010,10,132,4,2,0,0,1,146000,2,Los Molinos,Alcala de Guadaira,Sevilla
+10,2006,14,135,3,2,1,1,1,85000,1,Oromana,Alcala de Guadaira,Sevilla
+11,2008,12,81,2,1,0,1,0,112000,1,Centro,Alcala de Guadaira,Sevilla
+12,1980,40,237,4,2,1,0,0,206000,2,Montecarmelo,Alcala de Guadaira,Sevilla
+13,1975,45,84,3,1,1,0,0,98000,2,Oromana,Alcala de Guadaira,Sevilla
+14,2016,4,75,2,2,1,1,1,115500,1,Molino el Realaje,Alcala de Guadaira,Sevilla
+15,1976,44,110,4,2,1,0,0,122100,2,Montecarmelo,Alcala de Guadaira,Sevilla
+16,1999,21,81,3,1,0,1,0,51800,1,Nueva Alcala,Alcala de Guadaira,Sevilla
+17,2003,17,528,6,6,1,0,0,699000,2,Pinsapo,Bollullos de la Mitacion,Sevilla
+18,2007,13,55,1,1,0,0,0,65000,1,Avenida Espana,Sanlucar la Mayor,Sevilla
+19,2007,13,61,2,1,0,1,0,69000,1,Avenida Espana,Sanlucar la Mayor,Sevilla
+20,2007,13,65,2,1,1,1,1,69000,1,Avenida Espana,Sanlucar la Mayor,Sevilla
+21,2007,13,61,2,1,0,1,0,60000,1,Avenida Espana,Sanlucar la Mayor,Sevilla
+22,1998,22,79,3,1,1,1,0,118000,1,Plaza del Huerto,Alcala de Guadaira,Sevilla
+23,2006,14,117,3,2,1,0,0,104000,2,Victoria Kent,Cantillana,Sevilla
+24,2008,12,84,3,1,1,0,0,61000,2,Corralejas,Aznalcazar,Sevilla
+25,2009,11,170,3,1,1,0,0,110000,2,Volga,Guillena,Sevilla
+26,2007,13,116,3,1,1,0,0,69900,2,Enrejado,Cantillana,Sevilla
+27,2008,12,126,4,3,1,0,1,90000,2,Plaza Marquez El Zapatero,Villanueva del Ariscal,Sevilla
+28,2007,13,116,3,2,0,0,0,65000,1,Carmen Laffon,Burguillos,Sevilla
+29,2003,17,106,4,1,1,0,0,69900,2,Santa Maria,Aznalcazar,Sevilla
+30,2008,12,118,4,2,1,0,1,90000,2,Plaza Marquez El Zapatero,Villanueva del Ariscal,Sevilla
+31,1991,29,84,2,2,0,0,0,88000,2,Madueno de los aires,Alcala de Guadaira,Sevilla
+32,1996,24,233,4,2,1,0,0,133500,2,Centro,Viso del Alcor,Sevilla
+33,1974,46,87,3,1,0,1,0,63000,1,La Paz,Alcala de Guadaira,Sevilla
+34,1962,58,81,3,1,0,0,0,70800,2,Nueva Alcala,Alcala de Guadaira,Sevilla
+35,2007,13,131,3,1,1,1,0,107000,1,Nueva Alcala,Alcala de Guadaira,Sevilla
+36,2009,11,72,2,1,1,1,1,103000,1,La Paz,Alcala de Guadaira,Sevilla
+37,2007,13,93,3,1,0,1,0,108000,1,Nueva Alcala,Alcala de Guadaira,Sevilla
+38,2002,18,101,3,1,1,0,1,183000,2,Oromana,Alcala de Guadaira,Sevilla
+39,1973,47,82,3,1,0,0,0,72000,1,La Paz,Alcala de Guadaira,Sevilla
+40,1970,50,92,2,1,1,0,1,86900,2,Nueva Alcala,Alcala de Guadaira,Sevilla
+41,2000,20,110,5,1,1,0,1,120000,2,Oromana,Alcala de Guadaira,Sevilla
+42,1960,60,122,3,1,1,0,0,120000,2,Oromana,Alcala de Guadaira,Sevilla
+43,1971,49,79,2,1,0,1,0,83000,1,Centro,Alcala de Guadaira,Sevilla
+44,1975,35,73,4,1,0,1,0,68000,1,La Paz,Alcala de Guadaira,Sevilla
+45,1990,30,88,3,1,0,1,1,85000,1,La Paz,Alcala de Guadaira,Sevilla
+46,1955,65,107,3,1,1,0,0,85000,2,Malasmananas,Alcala de Guadaira,Sevilla
+47,1973,47,70,3,1,0,0,0,65000,1,Nueva Alcala,Alcala de Guadaira,Sevilla
+48,1990,30,156,5,3,1,0,0,165000,2,Centro,Alcala de Guadaira,Sevilla
